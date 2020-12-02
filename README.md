@@ -19,6 +19,7 @@ All the data are fetching and posting to Firebase (firestore) cloud storage so i
 ## Things to be fixed:
 
 - sorting by name option is not working the way it should works.
+- pasting any invalid url to redirect to starting component
 
 
 ## Live Preview 
