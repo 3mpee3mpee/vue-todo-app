@@ -19,3 +19,8 @@ All the data are fetching and posting to Firebase (firestore) cloud storage so i
 ## Things to be fixed:
 
 - sorting by name option is not working the way it should works.
+
+
+## Live Preview 
+
+You can see the following app working here: https://todoapp-progressive.netlify.app/
